@@ -202,6 +202,9 @@ git push
 or
 Live Demo 
 https://bahrizalmulyawan.github.io/morse_suite/morse_beeper.html
+Live Demo (Old)
+https://bahrizalmulyawan.github.io/morse_suite/old/morse_beeper.html
+
 ## 📄 License
 
 No license is currently specified in the project files. Add a `LICENSE` file and update this section when a license is chosen.
