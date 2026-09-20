@@ -200,8 +200,8 @@ git push
 ```
 
 or
-Live Demo 
-https://bahrizalmulyawan.github.io/morse_suite/morse_beeper.html
+Live Demo(New)
+https://bahrizalmulyawan.github.io/morse_suite/
 Live Demo (Old)
 https://bahrizalmulyawan.github.io/morse_suite/old/morse_beeper.html
 
